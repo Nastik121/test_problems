@@ -1,2 +1,1 @@
-Data Analyst
-Тестовое задание
+Тестовые задания на позицию Data Analyst at Dodo
